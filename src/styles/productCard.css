@@ -1,0 +1,31 @@
+.product__item{
+  border: 1px solid gray;
+  text-align: center;
+  padding:30px;
+  cursor: pointer;
+}
+.product__img{
+  transition: .4s;
+}
+.product__img:hover {
+  transform: scale(1.5);
+}
+.product__content h5 a{
+color : #212254;
+font-size:1rem ;
+}
+.product__price{
+  font-weight: 600;
+  font-size: 1.2rem;
+  color:  red;
+}
+.addToCart__btn{
+  border : none;
+  outline: none;
+  padding: 7px 25px;
+  background: rgb(226, 69, 69);
+  color: white;
+  border-radius:5px;
+  font-size: .9rem;
+
+}

@@ -1,0 +1,10 @@
+.form__checkout{
+  width: 100%;
+  border: 10px;
+  border-radius: 10px;
+  background : rgba(255, 0, 0, 0.472)
+}
+.form__group {
+  text-align:  center;
+  padding: 10px 20px;
+}

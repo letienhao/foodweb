@@ -1,0 +1,15 @@
+th{
+  text-align: center;
+}
+.cart__img-box{
+    width: 80px !important;
+}
+.cart__img-box img{
+  width: 100%;
+}
+.cart__item-delete{
+  color : red
+}
+.sum__price{
+  color :red
+}

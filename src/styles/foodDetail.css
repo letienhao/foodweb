@@ -1,0 +1,47 @@
+.single__product-content p span{
+  background: rgb(141, 91, 91);
+  color : white;
+  padding : 2px;
+  border:  1px solid transparent;
+  border-radius :3px;
+
+}
+.addToCart__btn{
+  margin-top: 10px;
+}
+.addToCart__btn:active{
+  background:rgb(187, 27, 99)
+}
+.single__product-content span{
+  font-weight: bold;
+  font-size: 20px;
+}
+.tab__active{
+  color :red;
+}
+.content_tab{
+  color :#212245;
+  font-weight: 500;
+  font-size: .9rem;
+}
+.form{
+  width: 60%;
+  margin: auto;
+  background: #dc8b8bcb;
+  /* text-align: center; */
+  padding:10px
+}
+.form_group input,.form_group textarea{
+  width: 100%;
+  background: transparent;
+  padding: 7px 20px;
+  border: none;
+  border-bottom: 1px solid #21224597;
+}
+.form_group input:focus, 
+.form_group textarea:focus {
+  outline: none;
+}
+.tabs {
+  cursor: pointer;
+}

@@ -1,0 +1,68 @@
+
+.feature__subtitle{
+  color :red
+}
+.feature__title span{
+  color : red
+}
+.feature__text{
+  color : #777;
+
+}
+.feature__item{
+
+}
+.food__category{
+  background: red;
+  margin-top: 30px;
+  padding: 20px 0px;
+  border-radius: 10px;
+}
+.food__category button{
+  border: none;
+  outline: none;
+  padding: 7px 20px;
+  background: transparent ;
+  color : white;
+  cursor: pointer;
+}
+.food__category button img{
+  width:15px;
+  height: 15px;
+}
+.foodBtnActive{
+  background: white !important;
+  border-radius: 5px;
+  color:  black !important;
+}
+.why__treat-title span{
+  color : red;
+  cursor: pointer;
+}
+/* .why__treat-title:hover{
+  transform: scale(2);
+} */
+.choose__title-check p{
+  font-weight: 700;
+  
+}
+.why__treat-title p{
+  font-weight: 600;
+}
+.choose__title-check p i{
+  color : red;
+}
+.testimonial__title{
+  color : red;
+  font-weight: 600;
+}
+.testimonial__subtitle span{
+  color : red
+}
+.testimonial__subtitle{
+  color : #3a3a4b;
+}
+.testimonial__sub{
+  font-size: 14px;
+  color : #212254;
+}

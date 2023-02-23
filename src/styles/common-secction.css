@@ -1,0 +1,12 @@
+.common__section {
+  background: lightblue url("../assets/images/banner.jpeg") ; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  padding: 80px 0px;
+}
+.common__title{
+  margin-right: 70px;
+  color: black
+
+}
