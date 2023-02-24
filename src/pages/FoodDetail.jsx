@@ -1,6 +1,5 @@
 import React, { useEffect, useState ,useRef} from "react";
 import CommonSection from "../components/UI/common-section/CommonSection";
-import productImg from "../assets/images/product_01.1.jpg";
 import Helmet from "../components/Helmet/Helmet";
 import { Container, Row, Col } from "reactstrap";
 import "../styles/foodDetail.css";
